@@ -1,0 +1,168 @@
+#kotak{
+    border: 5px solid;
+    /* background-color: red; */
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#menu{
+    font-size: 18px;
+    font-family: 'Signika', sans-serif;
+}
+
+.row1{
+    /* background-color: aqua; */
+    height:65%;
+}
+
+.row2{
+    /* background-color: palegoldenrod; */
+    height:65%;
+}
+
+.sectCont{
+    background-color: blue;
+}
+
+.profile{
+    height: 80%;
+    /* background-color: beige; */
+}
+
+.col{
+    border: 0px;
+    padding: 0px;
+}
+
+.myImage{
+    height: 100%;
+    width: 50%;
+    padding: 36px 0 10px 40px;
+    margin: 0%;
+    /* display: flex;
+    justify-content: center; */
+    
+}
+
+.single{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+#noob{
+    height: 90%;
+    /* padding: 2%; */
+    margin: auto;
+    border: 10px solid rgb(177, 96, 5);
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px; 
+}
+
+h2{
+    margin-bottom: 0%;
+    padding: 10px;
+}
+
+hr{
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.carousel{
+    height: 105vh;
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:burlywood;
+}
+
+#gallery{
+    background-color:burlywood;
+}
+
+.carousel img{
+    height: 100%;
+    width: 45vw;
+    border: 5px solid rgb(177, 96, 5);
+    /* text-align: center;
+    display: flex;
+    justify-content: center; */
+}
+
+.touch{
+    height: 100%;
+    /* background-color: blueviolet; */
+    /* width: 70vw; */
+    /* padding: 50px 200px 720px 200px;
+    margin: auto; */
+}
+
+.directMssg{
+    height: 66vh;
+    /* background-color:  beige; */
+}
+
+.formS{
+    width: 400px;
+    /* height: 100%; */
+    display: flex;
+    justify-content: center;
+    /* background-color:  beige; */
+    margin: auto;
+    padding: 20px;
+}
+
+footer{
+    background-color:  burlywood;
+}
+
+.fa {
+    padding: 6px;
+    height:30px;
+    font-size: 15px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter{
+    background:#55ACEE;
+    color: white;
+}
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+.fa-instagram {
+    background:palevioletred;
+    color: white;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+#formGroupExampleInput4{
+    height: 109px;
+    width: 200px;
+}
+
+body{
+    background-image:url("../images/light-veneer.png");
+    /* background-color: rgb(241, 241, 241); */
+}
+
+h2, h3, h4{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Satisfy', cursive;
+}
+
